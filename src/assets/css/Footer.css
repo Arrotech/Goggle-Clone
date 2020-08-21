@@ -8,7 +8,7 @@
 }
 
 .footer>p {
-    padding: 10px 30px;
+    padding: 10px 20px;
 }
 
 .footer__hr {
@@ -28,7 +28,7 @@
 .footer__link {
     color: gray !important;
     text-decoration: none !important;
-    margin-left: 30px;
+    margin-left: 20px;
     font-size: 15px !important;
 }
 

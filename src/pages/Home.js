@@ -4,6 +4,7 @@ import Logo from '../assets/img/googlelogo.png';
 import SearchIcon from '@material-ui/icons/Search';
 import MicIcon from '@material-ui/icons/Mic';
 import { Button } from '@material-ui/core';
+import Footer from '../components/Footer';
 
 function Home() {
 	return (
@@ -19,6 +20,7 @@ function Home() {
 				<Button className="home__btn">I'm Feeling Lucky</Button>
             </center>
             <p>Google offered in: <span>Kiswahili</span></p>
+            <Footer/>
 		</div>
 	);
 }
